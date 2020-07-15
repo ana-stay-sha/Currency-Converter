@@ -1,0 +1,34 @@
+header{background: #295e6c;}
+
+.top-bar {
+    padding:0px;
+    font-size: 12px;
+    border-bottom: .4px solid #1e434e;
+    min-height: 40px;
+}
+.main-header {
+    padding: 20px 0 25px;
+}
+
+.site-title {
+    color: #fff;
+}
+
+.header-nav {
+    background: #1e434e;
+}
+
+.header-nav li{
+    display: inline-block;
+    padding: 15px 25px 15px;
+}
+
+
+.header-nav li a, .header-nav li a:visited {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
+.header-nav li:hover {
+    background: #295e6c;
+}
